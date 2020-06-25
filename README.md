@@ -1,10 +1,10 @@
 # presence_detector
 
-The application detects the users currently viewing a page.
+The application detects the users who are currently viewing the page.
 
-Admin user will be able to check the users present along with the time stamp.
+Admin will be able to check the users present along with the time stamp.
 
-This application is built using HTML, CSS, PHP, AJAX and Jquery.
+This application is built using HTML, CSS, PHP, AJAX, Jquery and SQL .
 
 Admin credentials - email id: test@gmail.com
                     password: test
